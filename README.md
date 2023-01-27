@@ -1,2 +1,5 @@
-# R-Coding
-Clone of the R class materials
+# R-Coding Project Proposal 
+
+
+The 
+
